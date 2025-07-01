@@ -1,0 +1,5 @@
+-State Management
+-Props
+-Component Structure
+-Event Handling
+-Conditional Rendering
